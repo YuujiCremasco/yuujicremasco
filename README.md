@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Vitor tenho 30 anos, formado em Marketing tecnólogo em transição para tecnologia, busco minha primeira oportunidade de estágio em Desenvolvimento Web. Possuo conhecimentos práticos em HTML, CSS e JavaScript, com foco atual no aprendizado de Banco de Dados (SQL) para o desenvolvimento de aplicações completas.
+Estudante de Marketing em transição para tecnologia, busco minha primeira oportunidade de estágio em Desenvolvimento Web. Possuo conhecimentos práticos em HTML, CSS e JavaScript, com foco atual no aprendizado de Banco de Dados (SQL) para o desenvolvimento de aplicações completas.
 
 
 
